@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Red and I make games and other things
-- 🔭 I’m currently working on a Playdate game
+- 🔭 I’m currently working on a game for the [Playdate](https://play.date/)
 - 🍛 My favorite food is curry
