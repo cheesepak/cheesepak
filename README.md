@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Red and I make games and other things
-- 🔭 I’m currently working on a game for the [Playdate](https://play.date/)
+- 👾 One of the devs on The Forged Curse Archipelago game for [PICO-8](https://www.lexaloffle.com/pico-8.php)
+- 🔭 Currently working on a game for the [Playdate](https://play.date/)
 - 🍛 My favorite food is curry
